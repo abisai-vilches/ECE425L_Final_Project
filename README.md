@@ -1,6 +1,8 @@
 # ECE425 Final Project
 Arithmetic Calculator
+
 Presented by Abisai Vilches and Brandon Vargas
+
 Professor: Aaron Nanas
 
 Introduction
