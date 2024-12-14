@@ -1,4 +1,4 @@
-# ECE425_Final_Project
+## ECE425_Final_Project
 Arithmetic Calculator
 Presented by Abisai Vilches and Brandon Vargas
 Professor: Aaron Nanas
@@ -53,15 +53,19 @@ The following images show the results of our arithmetic calculator. Figure 2 sho
 There is an integer limit regarding the numbers that can be used or displayed: 4,294,967,295. If any further improvements were to be made to this project, one would be to prevent inputting or outputting values larger than the one just listed.
 
 ![image](https://github.com/user-attachments/assets/344bcd06-106f-444f-8ae1-e5861367d126)
+
 Figure 2: Arithmetic calculator output when dividing by zero
 
 ![image](https://github.com/user-attachments/assets/d770c15b-27d1-4050-bf4c-4c4fafa3bf1f)
+
 Figure 3: Arithmetic calculator output of negative numbers
 
 ![image](https://github.com/user-attachments/assets/ed9ea80c-0af8-4fd5-9bfb-37d66681e1c9)
+
 Figure 4: Arithmetic calculator output when using the reset button
 
 ![image](https://github.com/user-attachments/assets/b7db2737-9b60-403e-a3c4-22d287eb831f)
+
 Figure 5: Arithmetic calculator output of regular calculation 
 
 # Conclusion
